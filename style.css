@@ -1,0 +1,14 @@
+.default {
+	height: 120px;
+	width: 200px;
+	background-color: red;
+}
+
+.draggable {
+	position: absolute;
+}
+
+.dragging {
+	background-color: green;
+	cursor: move;
+}
